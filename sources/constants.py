@@ -33,7 +33,7 @@ SCRIPT_PATH = path.dirname(path.realpath(__file__))
 CONST = {
 
     # Bot Token (get it from @BotFather)
-    "TOKEN" : "571241324:AAGZZ_jA7Nb6SLUZ1CaZxcA00AbZTSYqeLY",
+    "TOKEN" : "1038324333:AAHfr6iwolaM-TtjU_oCcm3gx6Ss6jdqA9Y",
 
     # Languages texts files directory path
     "LANG_DIR" : SCRIPT_PATH + "/language",
@@ -101,16 +101,16 @@ CONST = {
         "\nChinese-Simplified / 中文\n/language zh_cn",
 
     # Bot developer
-    "DEVELOPER" : "@JoseTLG",
+    "DEVELOPER" : "@Leaf_Ninja",
 
     # Bot code repository
     "REPOSITORY" : "https://github.com/J-Rios/TLG_JoinCaptchaBot",
 
     # Developer Paypal address
-    "DEV_PAYPAL" : "https://www.paypal.me/josrios",
+    "DEV_PAYPAL" : "https://www.paypal.me/skumar243",
 
     # Developer Bitcoin address
-    "DEV_BTC" : "3N9wf3FunR6YNXonquBeWammaBZVzTXTyR",
+    "DEV_BTC" : "3EpNqL7HR3VBZrNQW54XTJ7x8djK7vNygf",
 
     # Bot version
     "VERSION" : "1.6.6 (11/12/2019)"
